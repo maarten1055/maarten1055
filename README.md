@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20there!&animation=fadeIn&type=rect&color=gradient&height=100"/>
 </p>
 
@@ -17,7 +17,8 @@
     </ a>
 </p>
 
-<!-- Snek -->   
+
 <p align="center">
 <a href="https://gitstar-ranking.com/maarten1055" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/maarten1055/maarten1055/master/assets/github-snake.svg" /></a>
 </p>
+-->   
